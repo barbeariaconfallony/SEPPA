@@ -11,6 +11,14 @@
       {
         "$Type": "Button",
         "$Name": "Button1"
+      },
+      {
+        "$Type": "CheckBox",
+        "$Name": "CheckBox1"
+      },
+      {
+        "$Type": "Slider",
+        "$Name": "Slider1"
       }
     ]
   }
