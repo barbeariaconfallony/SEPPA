@@ -38,13 +38,6 @@
         "Width": -2
       },
       {
-        "$Type": "Button",
-        "$Name": "Button2",
-        "Text": "Clique aqui",
-        "BackgroundColor": "&HFF4F46E5",
-        "TextColor": "&HFFFFFFFF"
-      },
-      {
         "$Type": "CheckBox",
         "$Name": "CheckBox1",
         "Text": "Opção",
