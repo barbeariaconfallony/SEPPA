@@ -4,6 +4,15 @@
     <field name="COMPONENT_SELECTOR">Componente</field>
     <statement name="DO">
       <block type="controls_open_screen" id="*%Y+DAc=^7oiWoj)f8He">
+        <next>
+          <block type="controls_openAnotherScreen" id="1779070802683">
+            <value name="SCREEN">
+              <block type="text" id="Y53O8xdXFJVQ2ufyIDUv">
+                <field name="TEXT">login</field>
+              </block>
+            </value>
+          </block>
+        </next>
       </block>
     </statement>
   </block>
