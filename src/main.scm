@@ -43,6 +43,34 @@
         "Text": "Clique aqui",
         "BackgroundColor": "&HFF4F46E5",
         "TextColor": "&HFFFFFFFF"
+      },
+      {
+        "$Type": "CheckBox",
+        "$Name": "CheckBox1",
+        "Text": "Opção",
+        "FontSize": 16
+      },
+      {
+        "$Type": "Spinner",
+        "$Name": "Spinner1",
+        "Items": [
+          "Opção 1",
+          "Opção 2",
+          "Opção 3"
+        ],
+        "Width": -2
+      },
+      {
+        "$Type": "Image",
+        "$Name": "Image1",
+        "Picture": "https://example.com/imagem.png",
+        "Width": 100,
+        "Height": 100
+      },
+      {
+        "$Type": "Space",
+        "$Name": "Space1",
+        "Height": 50
       }
     ]
   }
