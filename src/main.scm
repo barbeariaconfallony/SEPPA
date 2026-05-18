@@ -4,7 +4,7 @@
     "$Name": "main",
     "Title": "Autenticação",
     "BackgroundColor": "&HFFFFFFFF",
-    "TitleVisible": "True",
+    "TitleVisible": "False",
     "$Components": [
       {
         "$Type": "Label",
