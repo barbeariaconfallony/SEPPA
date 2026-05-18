@@ -20,6 +20,7 @@
         "$Type": "Slider",
         "$Name": "Slider1"
       }
-    ]
+    ],
+    "TitleVisible": "False"
   }
 }
