@@ -5,27 +5,24 @@
     <statement name="DO">
       <block type="controls_openAnotherScreen" id="1779070802683">
         <value name="SCREEN">
-          <block type="text" id="6nCChtRgGIAFrEqWYYnq">
+          <block type="text" id="BIGwxChD7AjBogT9zOgn">
             <field name="TEXT">login</field>
           </block>
         </value>
       </block>
     </statement>
   </block>
-  <block type="text_print" id="1779073129168" x="520" y="80">
-    <value name="TEXT">
-      <block type="text" id="UFiqLu4HL4WK10mvQ8xW">
-        <field name="TEXT">Button2</field>
-      </block>
-    </value>
-    <next>
+  <block type="component_event" id="1779073129168" x="520" y="80">
+    <mutation component_type="Button" is_generic="false" instance_name="Button2" event_name="Initialize"></mutation>
+    <field name="COMPONENT_SELECTOR">Button2</field>
+    <statement name="DO">
       <block type="controls_openAnotherScreen" id="1779073164634">
         <value name="SCREEN">
-          <block type="text" id="UlAxoMeh2TU6xv1q1yY3">
+          <block type="text" id="7jB6xSkkbQr1auAofyXd">
             <field name="TEXT">login</field>
           </block>
         </value>
       </block>
-    </next>
+    </statement>
   </block>
 </xml>
