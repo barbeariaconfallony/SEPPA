@@ -3,6 +3,11 @@
     "$Type": "Form",
     "$Name": "main",
     "Title": "main",
-    "$Components": []
+    "$Components": [
+      {
+        "$Type": "Label",
+        "$Name": "Label1"
+      }
+    ]
   }
 }
