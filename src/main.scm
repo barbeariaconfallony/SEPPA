@@ -24,6 +24,24 @@
         "Height": -1,
         "BackgroundColor": "&HFF4CAF50",
         "TextColor": "&HFFFFFFFF"
+      },
+      {
+        "$Type": "Label",
+        "$Name": "Label2",
+        "Text": "Novo Label",
+        "FontSize": 18
+      },
+      {
+        "$Type": "TextBox",
+        "$Name": "TextBox1",
+        "Hint": "Digite algo",
+        "Width": -2
+      },
+      {
+        "$Type": "Button",
+        "$Name": "Button2",
+        "Text": "Clique aqui",
+        "BackgroundColor": "&HFF4F46E5"
       }
     ]
   }
