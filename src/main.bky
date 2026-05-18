@@ -1,1 +1,40 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="component_event" id="Ht*HuQNyI7y0I?/Tsnl#" x="238" y="63"><mutation xmlns="http://www.w3.org/1999/xhtml" component_type="Form" is_generic="false" instance_name="Componente" event_name="Click"></mutation><statement name="DO"><block type="controls_openAnotherScreen" id="1779070802683"><value name="SCREEN"><block type="text" id="Y53O8xdXFJVQ2ufyIDUv"><field name="TEXT">login</field></block></value></block></statement></block></xml>
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="component_event" id="Ht*HuQNyI7y0I?/Tsnl#" x="238" y="63">
+    <mutation component_type="Form" is_generic="false" instance_name="Componente" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Componente</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="1779070802683">
+        <value name="SCREEN">
+          <block type="text" id="4iX5KnTpRyuFo3BKIhMd">
+            <field name="TEXT">login</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="text_print" id="1779073129168" x="160" y="280">
+    <value name="TEXT">
+      <block type="text" id="A8B6mlRnyfp3qcUKbusV">
+        <field name="TEXT">Button2</field>
+      </block>
+    </value>
+    <next>
+      <block type="controls_openAnotherScreen" id="1779073140980">
+        <value name="SCREEN">
+          <block type="text" id="dLMvmpedF1oaFV1zDuRK">
+            <field name="TEXT">Abrir Tela</field>
+          </block>
+        </value>
+        <next>
+          <block type="controls_openAnotherScreen" id="1779073164634">
+            <value name="SCREEN">
+              <block type="text" id="RhnP9RRMWzq4sHTyMTOf">
+                <field name="TEXT">login</field>
+              </block>
+            </value>
+          </block>
+        </next>
+      </block>
+    </next>
+  </block>
+</xml>
