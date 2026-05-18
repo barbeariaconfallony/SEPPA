@@ -7,6 +7,10 @@
       {
         "$Type": "Label",
         "$Name": "Label1"
+      },
+      {
+        "$Type": "Button",
+        "$Name": "Button1"
       }
     ]
   }
