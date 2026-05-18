@@ -3,7 +3,7 @@
     "$Type": "Form",
     "$Name": "main",
     "Title": "Apresentação",
-    "BackgroundColor": "&HFF000000",
+    "BackgroundColor": "&HFFFFFFFF",
     "TitleVisible": "False",
     "$Components": [
       {
