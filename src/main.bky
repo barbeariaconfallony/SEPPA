@@ -5,35 +5,26 @@
     <statement name="DO">
       <block type="controls_openAnotherScreen" id="1779070802683">
         <value name="SCREEN">
-          <block type="text" id="4iX5KnTpRyuFo3BKIhMd">
+          <block type="text" id="6nCChtRgGIAFrEqWYYnq">
             <field name="TEXT">login</field>
           </block>
         </value>
       </block>
     </statement>
   </block>
-  <block type="text_print" id="1779073129168" x="160" y="280">
+  <block type="text_print" id="1779073129168" x="520" y="80">
     <value name="TEXT">
-      <block type="text" id="A8B6mlRnyfp3qcUKbusV">
+      <block type="text" id="UFiqLu4HL4WK10mvQ8xW">
         <field name="TEXT">Button2</field>
       </block>
     </value>
     <next>
-      <block type="controls_openAnotherScreen" id="1779073140980">
+      <block type="controls_openAnotherScreen" id="1779073164634">
         <value name="SCREEN">
-          <block type="text" id="dLMvmpedF1oaFV1zDuRK">
-            <field name="TEXT">Abrir Tela</field>
+          <block type="text" id="UlAxoMeh2TU6xv1q1yY3">
+            <field name="TEXT">login</field>
           </block>
         </value>
-        <next>
-          <block type="controls_openAnotherScreen" id="1779073164634">
-            <value name="SCREEN">
-              <block type="text" id="RhnP9RRMWzq4sHTyMTOf">
-                <field name="TEXT">login</field>
-              </block>
-            </value>
-          </block>
-        </next>
       </block>
     </next>
   </block>
